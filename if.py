@@ -1,3 +1,4 @@
+#solution for #https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true
 n=24
 if n % 2 == 0:
     if n in range(2,5):
